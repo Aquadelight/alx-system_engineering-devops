@@ -1,1 +1,1 @@
-My fist commit in a long format
+My first commit in a long format
