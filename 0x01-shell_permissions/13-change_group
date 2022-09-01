@@ -1,2 +1,2 @@
-Task 13, 13-change_group
+#!/bin/bash
 chgrp school hello
