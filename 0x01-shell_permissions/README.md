@@ -1,1 +1,2 @@
-Task 15, 101-symbolic_link_permissions
+Task 15, 101-symbolic_link_permissions > README.md
+echo Task 15, 101-symbolic_link_permissions
