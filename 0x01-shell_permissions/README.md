@@ -1,1 +1,1 @@
-Task 2, 2-groups
+echo Task 3, 3-new_owner
