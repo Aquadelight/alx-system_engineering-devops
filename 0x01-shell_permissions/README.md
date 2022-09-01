@@ -1,1 +1,1 @@
-echo Task 3, 3-new_owner
+Task 4, 4-empty
