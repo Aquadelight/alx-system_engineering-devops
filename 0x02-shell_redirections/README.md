@@ -1,3 +1,1 @@
-Lets display a file > README.md
-
-echo Lets display a file
+Task 4
